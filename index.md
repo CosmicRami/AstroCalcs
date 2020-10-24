@@ -28,3 +28,4 @@ Astrophotography & CCD Imaging | 2020 | HD
 - Cosmology and the Large Scale Structure of the Universe
 - Major Project: Observational Astronomy
 - Major Project: Computational Astrophysics
+
