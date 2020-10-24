@@ -8,12 +8,14 @@ It's always a learning process for me, so if you see something that doesn't seem
 
 ## Subjects Completed
 
-- Exploring Stars and the Milky Way
-- Galaxies and their place in the Universe
-- Exploring the Solar System
-- History of Astronomy
-- Planetary Science
-- Astrophotography and CCD Imaging
+Subject | Completed | Grade
+------- | --------- | -----
+Exploring Stars and the Milky Way | 2018 | HD
+Galaxies and their place in the Universe | 2019 | HD
+Exploring the Solar System | 2019 | D
+History of Astronomy | 2019 | HD
+Planetary Science | 2020 | HD
+Astrophotography & CCD Imaging | 2020 | HD
 
 ## Current Subjects
 
@@ -27,10 +29,6 @@ It's always a learning process for me, so if you see something that doesn't seem
 - Major Project: Observational Astronomy
 - Major Project: Computational Astrophysics
 
-Subject | Completed | Grade
-------- | --------- | -----
-Exploring Stars and the Milky Way | 2018 | HD
-Galaxies and their place in the Universe | 2018 | HD
 
 You can use the [editor on GitHub](https://github.com/CosmicRami/AstroCalcs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
